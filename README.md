@@ -7,16 +7,16 @@ Beelzebul-AI.JS is the Javascript Build for our already developed Python Version
 - latest version of discord.js
 - Visual Studio Code (Optional)
 ### Installation
-1. Installing Dependecies
- `npm i` or `npm i discord.js fs @google/generative-ai`
+1. Installing Dependecies:
+  -`npm i` or `npm i discord.js fs @google/generative-ai`
 2. Setting up Variables
- Make your own `.env` file with the variables:
- - bot_token
- - prefix
- - bot_id
- - g_ApiKey
+ - Make your own `.env` file with the variables:
+  - bot_token
+  - prefix
+  - bot_id
+  - g_ApiKey
 
---Note: an .env file must look like this;
+### Note: an .env file must look like this;
 ```
 prefix= prefix
 g_ApiKey=  g_ApiKey
@@ -24,7 +24,7 @@ bot_token = bot_token
 bot_ID = bot_ID
 ```
 
-This is incredibly helpful for making your projects secure, especially when using hosting, or **uploading your random shenanigans on github** *(Yes, I'm staring at myself.)*
+This is incredibly helpful for making your projects secure, especially when using hosting, or ***uploading your random shenanigans on github*** *(Yes, I'm staring at myself.)*
 
 4. Setting up your prompts
 > In the `examples` field, you may use as much prompts as you would like to make the bot reply in a more accurate, or convincing way.
