@@ -8,7 +8,7 @@ Beelzebul-AI.JS is the Javascript Build for our already developed Python Version
 - Visual Studio Code (Optional)
 ### Installation
 1. Installing Dependecies
- -`npm i` or `npm i discord.js fs @google/generative-ai`
+   -`npm i` or `npm i discord.js fs @google/generative-ai`
 2. Setting up Variables
  - Make your own `.env` file with the variables:
   - bot_token
