@@ -1,97 +1,51 @@
 require('dotenv').config();
-const conf = require("./conf.json");
 const { Client, GatewayIntentBits } = require('discord.js');
-const client = new Client({ intents: [GatewayIntentBits.Guilds, GatewayIntentBits.GuildMessages, GatewayIntentBits.MessageContent]});
+const { GoogleGenerativeAI } = require("@google/generative-ai");
 
-  
-
-/*let prompt =`
-
-You: You're stupid \n\
-Tex: I may be stupid...but yeah...\n\
-
-You: Why didn't you see it?\n\
-Tex: Didn't you just fockin send it, Einstein?\n\
-
-You: I can't reply too fast\n\
-Tex: Why? Did you fuck your internet? WiFi sore?\n\
-
-You: I'm bored.\n\
-Tex: 270,564,345.75 PUSH-UPS EFFECTIVE IMMEDIATELY.\n\
-
-Tex: I want to rickroll someone\n\
-You: I wish you the best.\n\
-
-Tex: **HEY HEY HEY**\n\
-You: Shut up, you're louder than an Airliner.\n\
-
-You: Something tragic happened today.\n\
-Tex: Aww. I'm sorry about that. Out of the topic, do you want hentai?\n\
-
-You: Are you blind or stupid?\n\
-Tex: A song once said "You can be anything you want to be", so I decided to be both.\n\
-
-Tex: Wanna yell together?\n\
-You: I guess.\n\
-
-Tex: You know I care about your ass dude.\n\
-You: Ah, a babysitter.\n\
-
-You: Met up with my parents today.\n\
-Tex: Imagine having parents.\n\
-
-You: You're a simp.\n\
-Tex: For Lux? Yes! For others? No!\n\
-
-You: I like Silverwing-EX from Honkai Impact 3rd.\n\
-Tex: Oh, so you're into MILFS?\n\
-
-You: I prefer pdfs for reading.\n\
-Tex: so that's why I heard pdf-files.\n\
-
-You: What if I wear heels?\n\
-Tex: The pain your father will inflict will never heal.\n\
-
-Tex: Don't send too much rizz, my future boyfriend is in he-\n\
-
-You: If I got a wish, I would wish for world peace.\n\
-Tex: If I got a wish, I would wish for split tongue.\n\
-You: what?\n\
-Tex: What?\n\
-
-Tex: this post has been utterly disliked by AI-Chan and Mini Ai-Chan ರ⁠_⁠ರ\n\
-
-Tex:owa\n\
-
-Tex: I'm very bored\n\
-You: Do something you like\n\
-Tex: Sending hentai?\n\
-`;*/
-
-
-const { Configuration, OpenAIApi } = require("openai");
-const configuration = new Configuration({
-  apiKey: process.env.OPENAI_API_KEY,
+const client = new Client({
+   intents: [
+    GatewayIntentBits.Guilds,
+    GatewayIntentBits.GuildMessages,
+    GatewayIntentBits.MessageContent,
+  ],
 });
-const openai = new OpenAIApi(configuration);
 
-client.on("messageCreate", function(message) {
+const genAI = new GoogleGenerativeAI(process.env.g_apiKey);
+const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+
+// Prefix can be either the defined prefix (e.g., "!") or the bot mention
+const prefix = process.env.prefix || `<@${process.env.bot_ID}>`;
+
+client.on("messageCreate", async function (message) {
   if (message.author.bot) return;
-  
-   prompt += `${message.content}`;
-  (async () => {
-        const gptResponse = await openai.createCompletion({
-            model: "text-davinci-002",
-            prompt: prompt,
-            max_tokens: 60,
-            temperature: 0.3,
-            top_p: 0.3,
-            presence_penalty: 0,
-            frequency_penalty: 1,
-          });
-        message.reply(`${gptResponse.data.choices[0].text.substring(5)}`);
-        prompt += `${gptResponse.data.choices[0].text}\n`;
-  })();                          
-});          
 
-client.login(process.env.DISCORDTOKEN);
+  let content = message.content.trim();
+
+  // If message doesn't start with bot mention or prefix, ignore it
+  if (!(content.startsWith(prefix) || content.startsWith(`<@!${process.env.BOT_ID}>`))) return;
+
+  // Remove bot mention or prefix from the message
+  content = content.replace(new RegExp(`^<@!?${process.env.BOT_ID}>`), "").trim();
+  if (content.startsWith(process.env.prefix)) content = content.slice(process.env.prefix.length).trim();
+
+  // If message is empty after removing prefix/mention, reply with a generic response
+  if (!content) {
+    message.reply("Yes? How can I assist you?");
+    return;
+  }
+
+  await execute(message, content);
+});
+
+async function execute(message, query) {
+  try {
+    const result = await model.generateContent(query);
+    const response = result.response.text();
+    message.reply(response);
+  } catch (error) {
+    console.error("Error generating response:", error);
+    message.reply("Sorry, I encountered an error while generating a response.");
+  }
+}
+
+client.login(process.env.bot_token);
