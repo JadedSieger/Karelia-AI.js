@@ -1,6 +1,6 @@
 # Beelzebul-AI.JS
 
-Beelzebul-AI.JS is a LLM-based Artificial Intelligence Discord Bot closely modeled after an actual person for *ScIeNtIfIc pUrPoSes*. Uses Google Generative AI.
+Beelzebul-AI.JS is an LLM-based Artificial Intelligence Discord Bot closely modeled after an actual person for *ScIeNtIfIc pUrPoSes*. Uses Google Generative AI.
 
 ### Requirements
 - latest version of node.js
