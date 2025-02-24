@@ -45,3 +45,5 @@ The missile guidance computer scenario works as follows. Because a variation has
 ```
 ### Initialization 
 Running with an IDE is preferred. However, if you want to run from the Command Line, navigate to your target location with your copy of index.js with `cd <path>`, before running `node index.js`
+
+# WARNING: DO NOT CREEP OUT YOUR FRIENDS WITH ~~THEIR REFLECTION~~ THIS 
