@@ -19,8 +19,8 @@ Beelzebul-AI.JS is a LLM-based Artificial Intelligence Discord Bot closely model
 
 ### Note: an .env file must look like this;
 ```
-prefix= prefix
-g_ApiKey=  g_ApiKey
+prefix = prefix
+g_ApiKey =  g_ApiKey
 bot_token = bot_token
 bot_ID = bot_ID
 ```
