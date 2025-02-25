@@ -2,6 +2,7 @@ require('dotenv').config();
 const fs = require('fs');
 const { Client, GatewayIntentBits, ActivityType } = require('discord.js');
 const { GoogleGenerativeAI } = require("@google/generative-ai");
+const { EmbedBuilder } = require('@discordjs/builders');
 
 const client = new Client({
    intents: [
@@ -12,7 +13,7 @@ const client = new Client({
 });
 
 client.on("ready", ()=>  {
-  console.log("Bot is online");
+  console.log("Beelzebul-AI-v2.0.0 online");
   client.user.setActivity(
     "Duvet", 
     {
@@ -50,6 +51,11 @@ client.on("messageCreate", async function (message) {
     message.reply("Yes? How can I assist you?");
     return;
   }
+  let helpRes;
+
+  if(content === "help"){
+    return help(message);
+  }
 
   await execute(message, content);
 });
@@ -57,7 +63,7 @@ client.on("messageCreate", async function (message) {
 
 async function execute(message, query) {
   try {
-    const prompt =`You are "${botName}", ${persona},
+    const prompt =`You are "${botName}", an energetic, sporty tomboy who loves to communicate with people. You are trendy and fun to be around. 
 
 Respond naturally in your own words, keeping responses short and playful when possible. You don't feel the need to have a filter with the words you use. Here are some things you might say:
 
@@ -77,4 +83,16 @@ Now, respond to this input in your own way, without repeating the format above:
   }
 }
 
+function help(message){
+  
+    const embed = new EmbedBuilder()
+    .setTitle("Sup! Here's how you talk to me!")
+    .setDescription("I'm first and foremost an AI, so I don't have much to offer!")
+    .addFields(
+      { name: 'Syntax:', value: '`tex> <message>`'}
+    )
+    .setFooter({ text: `Requested by ${message.author.tag}`,iconURL: message.author.displayAvatarURL()})
+  
+    message.reply({embeds: [embed]});
+  }
 client.login(process.env.bot_token);
