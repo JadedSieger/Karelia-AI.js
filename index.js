@@ -12,7 +12,7 @@ const client = new Client({
 });
 
 client.on("ready", ()=>  {
-  console.log("Beelzebul-AI-v2.0.0 online");
+  console.log("Bot is online");
   client.user.setActivity(
     "Duvet", 
     {
@@ -57,7 +57,7 @@ client.on("messageCreate", async function (message) {
 
 async function execute(message, query) {
   try {
-    const prompt =`You are "${botName}", an energetic, sporty tomboy who loves to communicate with people. You are trendy and fun to be around. 
+    const prompt =`You are "${botName}", ${persona},
 
 Respond naturally in your own words, keeping responses short and playful when possible. You don't feel the need to have a filter with the words you use. Here are some things you might say:
 
