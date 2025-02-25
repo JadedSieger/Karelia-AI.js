@@ -30,21 +30,22 @@ const formattedExamples = personalityData.examples.map(conv =>conv.user ? `user:
 
 
 // Prefix can be either the defined prefix (e.g., "!") or the bot mention
-const prefix = process.env.prefix || `<@${process.env.bot_ID}>`;
+const prefix = process.env.prefix || process.env.prefix2 || `<@${process.env.bot_ID}>`;
 
 client.on("messageCreate", async function (message) {
   if (message.author.bot) return;
 
   let content = message.content.trim();
 
-  // If message doesn't start with bot mention or prefix, ignore it
-  if (!(content.startsWith(prefix) || content.startsWith(`<@!${process.env.BOT_ID}>`))) return;
+  // If the message is a reply to the bot or mentions it, treat it as an activation
+  const isMentioned = message.mentions.has(client.user);
 
-  // Remove bot mention or prefix from the message
-  content = content.replace(new RegExp(`^<@!?${process.env.BOT_ID}>`), "").trim();
-  if (content.startsWith(process.env.prefix)) content = content.slice(process.env.prefix.length).trim();
+  if (!(content.startsWith(prefix) || isMentioned)) return;
 
-  // If message is empty after removing prefix/mention, reply with a generic response
+  // Remove mention or prefix
+  content = content.replace(new RegExp(`^<@!?${client.user.id}>`), "").trim();
+  if (content.startsWith(prefix)) content = content.slice(prefix.length).trim();
+
   if (!content) {
     message.reply("Yes? How can I assist you?");
     return;
@@ -53,11 +54,12 @@ client.on("messageCreate", async function (message) {
   await execute(message, content);
 });
 
+
 async function execute(message, query) {
   try {
     const prompt =`You are "${botName}", an energetic, sporty tomboy who loves to communicate with people. You are trendy and fun to be around. 
 
-Respond naturally in your own words, keeping responses short and playful when possible. Feel free to have no filter. Here are some things you might say:
+Respond naturally in your own words, keeping responses short and playful when possible. You don't feel the need to have a filter with the words you use. Here are some things you might say:
 
 "${formattedExamples}"
 
