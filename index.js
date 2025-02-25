@@ -58,6 +58,8 @@ client.on("messageCreate", async function (message) {
   }
 
   await execute(message, content);
+
+  console.log(message);
 });
 
 
@@ -77,6 +79,7 @@ Now, respond to this input in your own way, without repeating the format above:
 
     const cleanResponse = response.replace(/^.*?:/,"").trim();
     message.reply(cleanResponse);
+    console.log(cleanResponse);
   } catch (error) {
     console.error("Error generating response:", error);
     message.reply("Sorry, I encountered an error while generating a response.");
