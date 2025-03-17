@@ -1,0 +1,21 @@
+{
+  "name": "karelia-ai",
+  "version": "1.0.0",
+  "description": "Beelzebul-AI.JS is an LLM-based Artificial Intelligence Discord Bot closely modeled after an actual person for *ScIeNtIfIc pUrPoSes*. Uses Google Generative AI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.10.1",
+    "@google/generative-ai": "^0.23.0",
+    "crypto": "^1.0.1",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "node-fetch": "^3.3.2",
+    "path": "^0.12.7"
+  }
+}
