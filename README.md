@@ -1,6 +1,6 @@
-# Beelzebul-AI.JS
+# Karelia-AI.JS
 
-Beelzebul-AI.JS is an LLM-based Artificial Intelligence Discord Bot closely modeled after an actual person for *ScIeNtIfIc pUrPoSes*. Uses Google Generative AI.
+Beelzebul-AI.JS is an LLM-based Artificial Intelligence Discord Bot modeled as close as possible to an actual human for *ScIeNtIfIc pUrPoSes*. Uses Google Generative AI.
 
 ### Requirements
 - latest version of node.js
