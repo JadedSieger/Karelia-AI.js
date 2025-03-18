@@ -1,0 +1,911 @@
+[2025-03-18T04:16:14.817Z] Gm rueehh
+[2025-03-18T04:16:38.787Z] <:cat_ptsd:1338553621654274068>
+[2025-03-18T04:16:53.599Z] <@1068860427548770384> hi, talk to me in German real quick
+[2025-03-18T04:17:25.533Z] Uhjh
+You gotta give new members the 
+Jofriend role
+[2025-03-18T04:17:30.785Z] Before they can see anything
+[2025-03-18T04:18:29.918Z] idk if this works, but hallo! ich möchte dass du singst bitte
+[2025-03-18T04:18:30.233Z] <@877745441310130216> has arrived! Throw this at him.
+[2025-03-18T04:18:51.964Z] didn't sleep
+[2025-03-18T04:18:57.356Z] 
+[2025-03-18T04:18:59.744Z] only napped for like 3 hours lmao
+[2025-03-18T04:19:19.242Z] Didn't know.
+[2025-03-18T04:19:41.296Z] New server. Lol
+[2025-03-18T04:20:30.692Z] Guess we need to give a message that gives them access to the server channels?
+[2025-03-18T04:20:52.054Z] I.. Uhhh I don't know how we do that?
+[2025-03-18T04:20:59.377Z] 
+[2025-03-18T04:21:04.558Z] usually using a bot
+[2025-03-18T04:21:17.090Z] I think <@282859044593598464> can do that
+[2025-03-18T04:21:39.251Z] just need to react to the rules for instance
+[2025-03-18T04:22:02.702Z] we really oughtta change this
+[2025-03-18T04:22:21.112Z] Ah alrighty!
+[2025-03-18T04:22:34.940Z] Definitely!
+[2025-03-18T04:22:56.947Z] ALOT OF IF NOT THE WHOLE THINGS OUTDATED!
+[2025-03-18T04:23:21.477Z] (and I'm pretty sure around half of these rules have been broken here <:SkullOG:1076797419469160458> )
+[2025-03-18T04:23:54.211Z] Mmhmm
+[2025-03-18T04:24:23.318Z] Honestly these were tako rules and we don't give a shit about tako here.
+[2025-03-18T04:25:36.316Z] <@569554121523462185> Just showing the general idea of why most of these rules are gonna go.
+[2025-03-18T04:26:26.521Z] Its gonna be 18 plus only server for everyone to chill out at. <:G3Stare:1274148474086096897>
+[2025-03-18T04:27:27.762Z] yup lol;
+[2025-03-18T04:27:37.562Z] fair yeah
+[2025-03-18T04:28:15.690Z] 
+[2025-03-18T04:28:20.983Z] yk what actuall I want Karelia to be the server's bot <:SkullOG:1076797419469160458>
+[2025-03-18T04:28:26.646Z] I can work on that
+[2025-03-18T04:28:40.948Z] 
+[2025-03-18T04:29:22.548Z] <@1068860427548770384> LET'S GO?! (just say yes fr)
+[2025-03-18T04:29:35.049Z] Lol
+[2025-03-18T04:30:26.460Z] okay let me work on her welcome channel listener rq
+[2025-03-18T04:31:42.728Z] <a:musashivibe:1247544869556064416>
+[2025-03-18T04:33:36.141Z] Can I hug you?
+[2025-03-18T04:33:50.455Z] 
+[2025-03-18T04:34:39.064Z] oh it can't read stickers yet
+[2025-03-18T04:34:42.146Z] that's unfortunate
+[2025-03-18T04:44:58.118Z] WHA
+SLEEB !
+[2025-03-18T04:45:07.603Z] <@727946854305628290> <@783979727462596619> Easy day
+[2025-03-18T04:45:29.720Z] quite easy to change this too
+[2025-03-18T04:45:40.623Z] 
+[2025-03-18T04:45:46.346Z] NO WTF BRO-
+[2025-03-18T04:46:19.428Z] 
+[2025-03-18T04:46:44.761Z] simply 10 lines of code, really <:SkullOG:1076797419469160458>
+[2025-03-18T04:46:54.795Z] Oh
+[2025-03-18T04:47:02.501Z] Wasnt necessary but ok
+[2025-03-18T04:47:15.346Z] NOOOOO
+[2025-03-18T04:47:16.646Z] https://discord.com/channels/1236723034912456765/1236723035797454869/1351416524593823794
+[2025-03-18T04:47:22.536Z] MY CHILDHOOD CLASSIC
+[2025-03-18T04:48:08.787Z] Awesum
+
+We gon use this for verification?
+[2025-03-18T04:48:25.541Z] for verification we can use it yeah
+[2025-03-18T04:48:34.225Z] might need to modularize my code first though
+[2025-03-18T04:48:43.162Z] apply an event handler instead of putting the events here
+[2025-03-18T04:48:50.470Z] in the main file
+[2025-03-18T04:49:58.815Z] Lel
+Or shall I set up probot
+[2025-03-18T04:50:39.809Z] Probot probably easier
+[2025-03-18T04:51:17.593Z] Allr lemme jus do zat
+[2025-03-18T04:52:11.500Z] NO WAY BRO MANAGED TO DO THIS
+[2025-03-18T04:52:39.002Z] Gemini 2.0 Flash actually supports multimodal all this time <:SkullOG:1076797419469160458>
+[2025-03-18T04:52:52.468Z] but the process is having to describe the image and then making it a prompt
+[2025-03-18T04:54:29.043Z] 😭
+[2025-03-18T04:55:50.200Z] https://www.youtube.com/watch?v=odG4TaIn5Rw
+
+
+hello
+[2025-03-18T04:56:18.360Z] https://youtube.com/shorts/eoxs33hKigA?si=AcdluZb4z6AVoqPO
+[2025-03-18T04:57:04.689Z] Bro crashed out on patricia
+[2025-03-18T04:57:45.810Z] valid bro
+[2025-03-18T04:58:18.086Z] Bro the girls climbing the fence at the back <:skull_og:1338557571073839216>
+[2025-03-18T04:59:21.110Z] <@1068860427548770384> event module testing, hello hello
+[2025-03-18T04:59:35.300Z] <@783979727462596619> wtf
+[2025-03-18T04:59:35.540Z] yep failed
+[2025-03-18T04:59:41.549Z] It's snowing again 💀
+[2025-03-18T04:59:56.135Z] <:skull_og:1338557571073839216>  its almost APRIL bro
+[2025-03-18T04:59:57.342Z] wtf
+[2025-03-18T05:00:05.681Z] sun rly not holding back this time
+[2025-03-18T05:01:46.944Z] <@1068860427548770384> event module testing take 2, hello
+[2025-03-18T05:04:36.216Z] <@569554121523462185>  im setting up the serv n all
+
+but I got a curious question
+
+what if we do ask chatgpt to write a cool song and it whips smth as bad as thick of it
+[2025-03-18T05:04:55.921Z] can we confirm that ksi DID ask chatgpt to write thick of it for him?
+[2025-03-18T05:05:30.732Z] <@1068860427548770384> test take 3
+[2025-03-18T05:05:38.003Z] alright good
+[2025-03-18T05:05:52.591Z] probably not
+[2025-03-18T05:06:06.782Z] ok but what if its smth as bad
+[2025-03-18T05:06:09.930Z] just as bad
+[2025-03-18T05:06:37.326Z] yeah
+[2025-03-18T05:06:45.126Z] by using Thick of It as a baseplate
+[2025-03-18T05:06:49.214Z] then it probably could
+[2025-03-18T05:07:11.056Z] 
+[2025-03-18T05:07:28.760Z] what if i just say "write me a cool song"
+[2025-03-18T05:08:16.911Z] audio_store (for future voice features)
+commands (for modularized commands)
+encryptedfunc(idk, I just wanted to try obfuscation)
+logs-storage (for checking which one of you cheeky fuckers are misusing the bot)
+src (Stockfish Engine)
+temp (for image analyzation)
+[2025-03-18T05:08:31.548Z] o_O
+[2025-03-18T05:08:34.919Z] rueh AI expert
+[2025-03-18T05:08:50.972Z] more like discord bot expert <:SkullOG:1076797419469160458>
+[2025-03-18T05:09:08.366Z] it could actually make something genuinely better
+[2025-03-18T05:09:41.738Z] expert expert
+[2025-03-18T05:10:16.685Z] "just a normal dev" ™️
+[2025-03-18T05:10:22.352Z] <:cat_ptsd:1338553621654274068>  I feel bad for ksi now
+bro would easily lose to a fuckin AI if the AI starts a world capturing campaign
+[2025-03-18T05:10:39.714Z] still impressive nonetheless
+[2025-03-18T05:10:48.816Z] well hey, I have to admit, at least it's better than drake's song so uh
+[2025-03-18T05:11:28.879Z] <:warfinLaugh:1239595464081276938> "want to meet yo madre pay my respects to your padre mi amorrrrrr"
+[2025-03-18T05:12:19.562Z] bro he released another song, that shit's peak copypaste
+[2025-03-18T05:12:47.223Z] oh it's a whole ass EP it seems
+[2025-03-18T05:12:49.163Z] oh no
+[2025-03-18T05:12:53.729Z] what is it this time
+[2025-03-18T05:13:09.473Z] bro lost all the rizz he had with young girls
+[2025-03-18T05:14:13.761Z] oh it's not bad because he got a collab
+[2025-03-18T05:14:17.433Z] that makes total sense
+[2025-03-18T05:16:49.235Z] LMAO HE GOT SO MUCH HATE BRO, IT'S SUPPOSED TO BE ON HIS CHANNEL RIGHT, WELL IT AIN'T
+[2025-03-18T05:16:58.464Z] 💀 <:warfinLaugh:1239595464081276938>
+[2025-03-18T05:17:02.784Z] IT'S UP ON PARTYNEXTDOOR'S CHANNEL THO
+[2025-03-18T05:18:00.070Z] <@569554121523462185>  can you exit thru one of your alts and bring it back again
+just set up security for captcha , need to test if it works
+[2025-03-18T05:18:16.965Z] 
+[2025-03-18T05:18:29.682Z] O_O
+[2025-03-18T05:18:32.783Z] thiside by side and that shit MISSING
+[2025-03-18T05:19:06.194Z] aint no way  I played not like us just as you posted this 💀
+[2025-03-18T05:19:15.241Z] alr
+[2025-03-18T05:21:16.365Z] even universe dissin drake at this point dawg
+[2025-03-18T05:21:28.236Z] alr lets see if it works
+[2025-03-18T05:22:13.460Z] deserved
+[2025-03-18T05:22:18.026Z] fr
+[2025-03-18T05:22:30.332Z] ye
+[2025-03-18T05:22:31.211Z] works
+[2025-03-18T05:22:34.733Z] :yat
+[2025-03-18T05:22:37.371Z] <:MavuikaBurn:1315612226719322152>
+[2025-03-18T05:22:43.761Z] does it give the role after verification
+[2025-03-18T05:22:49.834Z] yup yup
+[2025-03-18T05:22:54.854Z] alr alr good
+[2025-03-18T05:23:04.483Z] 
+[2025-03-18T05:23:32.427Z] I remember when we tried tricking <@1053780807380115456> with that alt
+[2025-03-18T05:23:45.639Z] it was me all along
+[2025-03-18T05:23:55.824Z] https://tenor.com/view/dio-brando-anime-gif-7367270
+[2025-03-18T05:24:11.371Z] oh yes , bro was so down bad <:warfinLaugh:1239595464081276938>
+[2025-03-18T05:24:21.669Z] rueh slowly becoming JoJo fan
+[2025-03-18T05:24:22.231Z] W
+[2025-03-18T05:24:44.657Z] now to take care of this 
+Im gonna make this chananel archived
+[2025-03-18T05:25:22.819Z] I think I had a rule template somewhere that I did when I reworked on Server X(ykwim)
+[2025-03-18T05:25:57.476Z] oooh
+I mean sure but I was thinking like I will tone new rules down to like 10 lines
+[2025-03-18T05:26:00.878Z] on text
+[2025-03-18T05:26:16.767Z] 
+[2025-03-18T05:26:24.911Z] LMAO
+[2025-03-18T05:26:31.951Z] 
+[2025-03-18T05:27:03.590Z] I do have it, it's very thorough but like 10 points, simple
+[2025-03-18T05:27:36.932Z] damn, might as well work
+[2025-03-18T05:27:42.623Z] we can use them then
+[2025-03-18T05:27:49.068Z] I cooked
+[2025-03-18T05:28:15.911Z] this is good shit , im using these <@569554121523462185>
+[2025-03-18T05:28:25.375Z] alright let me send them LOL
+[2025-03-18T05:28:25.410Z] lemme make the new channel
+[2025-03-18T05:28:54.445Z] wait lemme make new channel
+[2025-03-18T05:30:22.061Z] alright
+[2025-03-18T05:30:34.452Z] <@569554121523462185>
+[2025-03-18T05:30:38.889Z] ## 1. Sensitivity to the situation at hand, as a member of this server, is a core rule. 
+Inappropriate language ( racial slurs, deliberately instigating negative reactions, etc.) will be removed and the User(s) will be issued a warning, kick or ban depending on severity. Jokes and language related to one’s race, age, gender, disability, etc. are **__strictly__** prohibited.
+
+## 2. The server and its members are not professionals. 
+Therefore, even with the presence of the <#1120000766107725915> channel, and the <@759948621822689310>, there is no guarantee that we will be able to help you.
+
+## 3. Advertisements are strictly prohibited.
+This includes any harmful material such as viruses, pornographic images/links, or links leading  to Discord servers that involve the aforementioned, etc.
+Breaking this rule will result in an immediate and permanent ban.
+
+## 4. Please ensure clear communication by using English.
+This server is a English speaking community. Please refrain speaking or messaging in a non-English language.
+
+## 5. Please mind your media posting.
+If it's for the memes and everyone is talking about it, then you are free to do so. However, purposefully sending a wall of memes, or spamming any form of media, will be met with a timeout and a warn.  
+__                                                                                            __
+No NSFW content outside <#1099153619422552225>. GORE, Zoophilia, Pokephilia, Piss or Scat and strictly loli/shota nsfw and other Disgusting content is NOT allowed anywhere. Borderline NSFW content on <#1099153590674804777> will be met with message removal and a warn.
+
+## 6. Ban/Warn/Timeout Evading is a bannable offense.
+Evading timeouts via rejoining will result in a temporary ban. Evading temporary bans with alt accounts will result in permanent bans on both accounts.
+
+## 7. Take your beef out of the grill.
+Please do not start arguments out of the blue. If you have a problem with anyone, please take the confrontation to Direct Messages, or contact one of our staff members. Starting, contributing or escalating heated arguments will only reduce a conversation into unproductive fighting. 
+
+**__Digging up past drama, or perpetuating conflict will result in Administrative action__**
+
+## 8. Always follow Discord's Terms of Service and Guidelines.
+We expect you to keep the Discord guidelines in mind. This will ensure our safety as a server, your safety as a user and everyone's safety as a community.
+https://discord.com/guidelines
+
+## 9. No man is an island, but know your limits.
+We extremely discourage sharing any personal information concerning other users.
+__                                                                                                                  __
+We encourage users to always protect their online identities and practice their rights from any bad actors (a person or group purposefully engaging in harmful, illegal, or morally wrong behavior), Unconsensual infringement upon any user's identity will be taken with serious actions.
+
+## 10. By being here, you agree to being exposed to mature topics and themes.
+The presence of 18+ channels should be enough proof that this server is not a safe haven.
+
+## 11. Please heed direct warnings from mods
+
+Any lack of recognition towards a moderator’s warning will be
+perceived as non-compliance, further action may be taken at the moderator team’s discretion.
+__                                                                                                   __
+Staff Note: Do not take moderator actions personally.
+Member Note: for moderator complaints, reach out to
+[2025-03-18T05:31:12.684Z] unknown channel 💀
+[2025-03-18T05:31:24.396Z] it was supposed to be for a vent channel <:SkullOG:1076797419469160458>
+[2025-03-18T05:31:47.257Z] might as well tweak these rules then
+[2025-03-18T05:32:03.185Z] yea i think we gotta tweak these channels
+[2025-03-18T05:32:06.138Z] rules*
+[2025-03-18T05:32:34.151Z] Well, partly because hima wanted to know my history.
+[2025-03-18T05:32:45.323Z] So it was necessary
+[2025-03-18T05:33:07.303Z] my fever gon skyrocket seeing this bro 💀
+[2025-03-18T05:33:18.253Z] \I set up verification
+[2025-03-18T05:33:22.693Z] tweakin rules now
+[2025-03-18T05:34:12.731Z] <@569554121523462185>  bro kendrick went wild on "tv off"
+
+"ALL I EVER WANTED WAS A BLACK GRAND NATIONAL , FUCK ME IRRATIONAL-" 🗣️
+[2025-03-18T05:34:25.392Z] # VC rules.
+
+## : all of the said above applies to voice chatting as well.
+## : NSFW comments, slurs, excessively swearing is not allowed.
+
+## : do not join vc to roast other people and their content in any way or shape.
+## : likewise, for songs, no gore, violence or excessive swearing.
+
+## Final Notes:
+**__DO NOT__** minimod. If there is an issue that is directly affecting you or the chat at hand, please just ping one of us. __Constant mini-modding will eventually result in a mute.__
+
+Lastly, At all times try to use common sense and good judgement for any action you're about to take.
+[2025-03-18T05:35:54.137Z] 
+[2025-03-18T05:36:56.666Z] I think first rule should be modified a bit 💀 
+smth to like you can say it but dont say it like you MEAN it
+[2025-03-18T05:37:10.253Z] yeah I am tryna reword it
+[2025-03-18T05:41:14.196Z] how's that
+[2025-03-18T05:41:20.970Z] changed prohibited to monitored lol
+[2025-03-18T05:41:35.052Z] <@569554121523462185>  <@442857430305734657>  or <@758049435447197788> 
+can yall react with star to this message
+[2025-03-18T05:41:38.282Z] testing starboard
+[2025-03-18T05:41:42.603Z] 
+[2025-03-18T05:43:35.487Z] 
+[2025-03-18T05:43:38.687Z] yo who did this <@727946854305628290> <@569554121523462185>
+[2025-03-18T05:43:50.505Z] I did
+[2025-03-18T05:43:54.947Z] ah
+[2025-03-18T05:43:59.559Z] 
+[2025-03-18T05:44:04.160Z] so they can see it but not send a message, just to make sure
+[2025-03-18T05:44:28.711Z] <@877745441310130216>
+[2025-03-18T05:44:33.062Z] <@877745441310130216>
+[2025-03-18T05:44:38.927Z] yeah that's fair
+[2025-03-18T05:44:40.163Z] Can you see us?
+[2025-03-18T05:45:20.227Z] oh like a custom role
+[2025-03-18T05:45:23.000Z] yeah why not
+[2025-03-18T05:45:31.186Z] Yeah
+[2025-03-18T05:45:49.011Z] will do that , but after the basics are setup
+[2025-03-18T05:46:15.615Z] maybe you could also tell which bot hima uses for that-
+[2025-03-18T05:46:19.322Z] 
+[2025-03-18T05:46:29.237Z] Hi
+[2025-03-18T05:46:51.317Z] yeah , big help G
+[2025-03-18T05:47:02.766Z] sup
+[2025-03-18T05:47:17.531Z] 
+[2025-03-18T05:47:18.346Z] I may just be able to implement a rolecreate command
+[2025-03-18T05:47:20.737Z] hold on
+[2025-03-18T05:47:49.716Z] yeah , at some point
+
+but for now let me setup basics
+[2025-03-18T05:48:03.455Z] 
+[2025-03-18T05:48:43.861Z] I'm chilling
+[2025-03-18T05:48:46.067Z] 😎
+[2025-03-18T05:49:02.439Z] Thank you ferret
+[2025-03-18T05:49:17.619Z] 
+[2025-03-18T05:49:28.479Z] Not a problem bro
+[2025-03-18T05:50:04.738Z] Since this servers gonna be 18 plus, i'm gonna make a quick change to all channels
+[2025-03-18T05:50:17.460Z] Enabling age restriction.
+[2025-03-18T05:50:30.429Z] yeah
+[2025-03-18T05:50:43.372Z] just enable it on all categories
+[2025-03-18T05:51:08.360Z] one by one channel is too much effort
+[2025-03-18T05:51:13.752Z] <@727946854305628290>
+[2025-03-18T05:51:14.992Z] <@727946854305628290>
+[2025-03-18T05:51:24.173Z] Ohhh
+[2025-03-18T05:51:30.515Z] You can do that?
+[2025-03-18T05:51:39.319Z] wait nvm
+[2025-03-18T05:51:41.793Z] F
+[2025-03-18T05:52:07.970Z] No I can't
+[2025-03-18T05:52:08.242Z] we cant
+[2025-03-18T05:52:10.080Z] Well
+[2025-03-18T05:52:15.964Z] Brb
+[2025-03-18T05:52:17.257Z] *Boosts server*
+"I would like owner role :manface:"
+[2025-03-18T05:52:52.800Z] SURETHING! 
+
+BEND OVER
+[2025-03-18T05:53:16.999Z] WAIT WAIT WAIT
+[2025-03-18T05:53:22.544Z] <:warfinLaugh:1239595464081276938>
+[2025-03-18T05:53:39.620Z] Damn, thats crazy. 
+
+Rapes you.
+[2025-03-18T05:53:51.046Z] 
+[2025-03-18T05:54:28.482Z] That's crazy but you wanna know something
+[2025-03-18T05:54:31.227Z] <a:WHAT:1293890244290019420>
+[2025-03-18T05:54:52.978Z] thats the one word im not allowing here O_O
+[2025-03-18T05:55:33.441Z] Negates your card AND FORCES POWY TO RAPE YOU BRUTALLY! 
+
+PLAPPERS MUHAHAHA
+[2025-03-18T05:56:04.318Z] It says it can't be negated
+[2025-03-18T05:56:07.183Z] o_o
+[2025-03-18T05:56:19.315Z] Read the description
+[2025-03-18T05:56:22.982Z] Damn. 
+
+Dies
+[2025-03-18T05:56:24.321Z] can we chill on the r word
+[2025-03-18T05:56:42.979Z] Yeah
+[2025-03-18T05:57:21.715Z] You thought you outsmarted my outsmarting but I actually outsmarted your outsmarting
+[2025-03-18T05:57:51.071Z] I think its safe to use in a silly context.
+[2025-03-18T05:58:06.058Z] <@783979727462596619> I'm literally Joseph fr
+[2025-03-18T05:58:57.952Z] nuh uhhhhh
+[2025-03-18T05:59:20.456Z] I never used it
+[2025-03-18T05:59:27.473Z] yuh ik
+[2025-03-18T05:59:33.689Z] Personally I like to use "Discombobulates your insides"
+[2025-03-18T06:01:10.633Z] 💀
+[2025-03-18T06:01:51.731Z] ||Hima and all the others use it alot|| 
+
+Thats why i'm suggesting letting it slide as long as its not used in a harmful manner.
+[2025-03-18T06:03:07.950Z] read read read read read read
+[2025-03-18T06:03:10.058Z] <@783979727462596619> sightly overcooked
+[2025-03-18T06:03:10.955Z] <:Raidenhmm:974166095084814396>
+[2025-03-18T06:03:12.352Z] hima and others may , we aint
+[2025-03-18T06:03:17.090Z] <@877745441310130216>
+[2025-03-18T06:03:21.389Z] Hi
+[2025-03-18T06:03:27.231Z] very slightly
+[2025-03-18T06:03:37.766Z] It almost reaches my cooking skills
+[2025-03-18T06:03:55.418Z] almost 💀 
+bro how BAD are you at cooking 😭
+[2025-03-18T06:04:10.342Z] bro has every other stat maxed but food cooking stats went to shit
+[2025-03-18T06:04:19.905Z] Ehhhh
+[2025-03-18T06:04:23.570Z] I forgot to allocate skill points there
+[2025-03-18T06:04:25.468Z] nu
+[2025-03-18T06:04:29.277Z] ❌
+[2025-03-18T06:04:38.755Z] "slightly overcooked"
+
+sure
+[2025-03-18T06:04:56.929Z] To the point where I can't cook anything other than like the 5 things I eat
+[2025-03-18T06:05:15.814Z] fuz got nerfed in food department
+[2025-03-18T06:05:19.867Z] I shit you not, I can't fry an egg properly 💀
+[2025-03-18T06:05:22.482Z] https://tenor.com/view/mayling-gfl-gfl2-girls-frontline-not-like-this-gif-14749893845997859467
+[2025-03-18T06:05:36.602Z] <:MavuiOver:1350786881146716271>
+[2025-03-18T06:05:46.085Z] ❌ ❌
+[2025-03-18T06:05:48.651Z] I'm gonna murder shit right now.
+[2025-03-18T06:05:56.594Z] I have the Ei cooking skills fr
+[2025-03-18T06:06:18.432Z] worse-
+[2025-03-18T06:06:22.389Z] Just use "Discombobulates your ass"
+[2025-03-18T06:07:31.744Z] RECONSTRUCTS YOUR BLOODY ASSHOLE INTO THE SHAPE OF THE PLANET MARS UNTIL YOU ONLY MOAN RANDOM NONSENSE! 
+
+HAH!
+
+BETTER R WORD!
+[2025-03-18T06:07:41.976Z] 
+[2025-03-18T06:08:00.441Z] Nah
+[2025-03-18T06:08:34.286Z] hima guillotine is insane
+[2025-03-18T06:09:27.774Z] "It would be my utmost privilege to engage in the most delicate and masterful reconstruction of your rather beleaguered and battle-worn posterior, sculpting it with the precision of an artist and the dedication of a scholar, until it bears an uncanny resemblance to the grand and illustrious celestial body known as the planet Mars. And, indeed, such shall be the thoroughness and fervor of this endeavor that your once-coherent expressions shall be reduced to little more than a symphony of unbridled and unintelligible exclamations, the likes of which shall echo through the halls of refined society with both bewilderment and admiration."
+[2025-03-18T06:09:51.479Z] <:MavuiKek:1315613423798583296>
+[2025-03-18T06:13:31.259Z] ?ms
+[2025-03-18T06:19:32.944Z] rape
+[2025-03-18T06:32:28.582Z] HE DID IT
+[2025-03-18T06:32:38.172Z] I also turned it to slash commands
+[2025-03-18T06:33:00.591Z] GOAT
+[2025-03-18T06:33:14.365Z] https://tenor.com/Z2Zc.gif
+[2025-03-18T06:33:19.829Z] now I need lunch and a nap
+[2025-03-18T06:33:20.841Z] <:SkullOG:1076797419469160458>
+[2025-03-18T06:33:26.998Z] go rest lmao
+[2025-03-18T06:33:36.663Z] i think i set up the server mostly
+[2025-03-18T06:33:45.209Z] now to take care of the shit ton of roles
+[2025-03-18T06:33:49.794Z] and change names
+[2025-03-18T06:33:59.700Z] true
+[2025-03-18T06:34:17.106Z] anything else left?
+[2025-03-18T06:34:35.082Z] I can't think of anything yet
+[2025-03-18T06:34:38.014Z] yeah
+[2025-03-18T06:34:40.227Z] me too
+[2025-03-18T06:34:45.462Z] alr have a good nap <@569554121523462185>
+[2025-03-18T06:34:46.142Z] 
+[2025-03-18T06:35:13.352Z] I mean
+your call like I said before
+[2025-03-18T06:35:22.168Z] 
+[2025-03-18T06:35:23.479Z] the server is set up
+[2025-03-18T06:35:32.706Z] just the roles and role name need to be changed
+[2025-03-18T06:36:08.841Z] I need to eat first
+[2025-03-18T06:37:44.331Z] alr i think the necessary roles have been kept back
+[2025-03-18T06:37:57.840Z] let me just set up react roles
+[2025-03-18T06:42:39.190Z] Wifeys here!
+[2025-03-18T06:42:43.815Z] .-….
+[2025-03-18T06:43:52.460Z] https://tenor.com/view/anime-wave-hatsune-miku-gif-22384247
+[2025-03-18T06:43:59.573Z] Hai
+[2025-03-18T06:45:36.327Z] Ello! 
+
+We've slowly been setting everything up and since they are letting me...
+[2025-03-18T06:46:18.327Z] 
+[2025-03-18T06:46:51.416Z] Oohhh yay
+[2025-03-18T06:47:47.605Z] Finally I’m mod somewhere else other  than  that server.-.
+[2025-03-18T06:48:42.867Z] 
+[2025-03-18T06:49:54.094Z] 
+[2025-03-18T06:51:37.872Z] Mhm UwU
+[2025-03-18T06:53:52.261Z] Yokoso
+Watashi no The Dugout
+[2025-03-18T06:54:08.842Z] .-…..?
+[2025-03-18T06:54:37.395Z] I am "The Dugout" is insane
+[2025-03-18T06:54:42.287Z] (Welcome to The dugout)
+[2025-03-18T06:55:12.111Z] NOOOO
+WASNT YOKOSO, WATASHI WA SOUL SOCIETY AS IN
+
+WELCOME TO MY SOUL SOCIETY
+[2025-03-18T06:55:23.544Z] 
+[2025-03-18T06:55:26.547Z] Yokoso is welcome <:SkullOG:1076797419469160458>
+[2025-03-18T06:55:27.481Z] Wait
+[2025-03-18T06:55:35.231Z] I typed it correct the forst time
+[2025-03-18T06:55:37.718Z] Fuck me
+[2025-03-18T06:55:49.847Z] Ok now its fixed
+[2025-03-18T06:55:52.283Z] <:skull_og:1338557571073839216>
+[2025-03-18T06:56:03.316Z] yes good
+[2025-03-18T06:56:10.381Z] <:SkullOG:1076797419469160458>
+[2025-03-18T06:56:18.708Z] ._.
+[2025-03-18T06:56:29.653Z] I TYPED THE CORRECT THING AT FIRST LMAO
+[2025-03-18T06:56:33.977Z] You know  what I love
+[2025-03-18T06:56:38.969Z] Ferret
+[2025-03-18T06:56:45.130Z] good catch
+[2025-03-18T06:56:56.737Z] I love pissing  lord. spider man’s  off in ranked with ferret on marvel  rivals
+[2025-03-18T06:57:03.497Z] https://tenor.com/view/how-you-relate-this-one-gif-cricket-sports-funny-gif-11121732328333992167
+[2025-03-18T06:57:05.111Z] they just hate my Namor.-.
+[2025-03-18T06:57:54.520Z] Funny part is I’m not even lord yet on my Namor.-.
+[2025-03-18T06:58:00.550Z] bro waited like he was posing for a picture...
+[2025-03-18T06:58:23.190Z] I SAID WELCOME 
+LIKE AIZEN SOSUKE
+[2025-03-18T06:58:32.974Z] 
+[2025-03-18T06:58:33.743Z] I don't understand because I don't play Marvel Rivals <:Kek:898256955922067466>
+[2025-03-18T06:58:37.794Z] Check  your user  Name  in that server ferret lol
+[2025-03-18T06:58:46.683Z] Thats Pakistan for you
+Always fumbling simple fielding
+[2025-03-18T06:59:23.711Z] UwU
+[2025-03-18T06:59:50.196Z] that does make sense
+[2025-03-18T06:59:52.785Z] Like this guy for example
+[2025-03-18T07:00:12.528Z] After the competitive match ended lol
+[2025-03-18T07:00:26.839Z] I think i sent u a vid
+
+https://youtube.com/shorts/fR__qToWoRo?si=oy93HYGYE3Bn_qGe
+[2025-03-18T07:00:37.356Z] Oh wait  that’s  an random quick  match
+[2025-03-18T07:00:57.539Z] Here the stats lol
+[2025-03-18T07:01:17.540Z] NOT SO SILLY!
+[2025-03-18T07:01:18.727Z] 
+[2025-03-18T07:01:33.352Z] 
+[2025-03-18T07:01:35.852Z] disgusting <:SkullOG:1076797419469160458>
+[2025-03-18T07:01:43.980Z] I sent the part where the spider man raged in the media channel  lol
+[2025-03-18T07:02:06.872Z] Bro the comments 😭 
+"Full time Abdul , part time cricketers" 💀 🙏
+[2025-03-18T07:02:26.103Z] 
+[2025-03-18T07:03:09.458Z] I killed him 13 time lol
+[2025-03-18T07:03:14.110Z] https://youtube.com/shorts/-x1YVq9DM3I?si=BZK5urdAzSa71lCR
+
+Spiderman crashout 
+Reasonable enough
+[2025-03-18T07:03:29.988Z] 
+[2025-03-18T07:03:48.585Z] 
+[2025-03-18T07:04:07.898Z] <:warfinLaugh:1239595464081276938>
+[2025-03-18T07:04:17.664Z] 
+[2025-03-18T07:04:34.844Z] 
+[2025-03-18T07:04:56.693Z] LMAOOOO
+[2025-03-18T07:05:00.280Z] W
+[2025-03-18T07:05:09.590Z] OH FUCK! <:kekw:876070011205210132>
+[2025-03-18T07:06:05.374Z] Next week or in three days
+[2025-03-18T07:06:11.536Z] I should have my lord Namor.-.
+[2025-03-18T07:06:29.565Z] sui!play ビーナスバグ 星街すいせい
+[2025-03-18T07:06:39.304Z] 
+[2025-03-18T07:07:57.484Z] <:skull_og:1338557571073839216>
+[2025-03-18T07:07:59.575Z] 
+[2025-03-18T07:09:06.749Z] sui!play swalla
+[2025-03-18T07:09:14.866Z] FUCK
+[2025-03-18T07:09:19.969Z] Shhj
+[2025-03-18T07:09:20.916Z] # kill yours-
+[2025-03-18T07:09:21.153Z] 
+[2025-03-18T07:09:23.620Z] Pissing off lord spiderman players is a must
+[2025-03-18T07:09:24.464Z] U didnt see anyt-
+[2025-03-18T07:09:30.110Z] 
+[2025-03-18T07:09:44.161Z] It doesn't even need to be lord
+[2025-03-18T07:09:52.911Z] Just Spiderman in general
+[2025-03-18T07:09:53.800Z] <:MavuiOver:1350786881146716271>
+[2025-03-18T07:10:02.221Z] sui!play My Abyss 常闇トワ
+[2025-03-18T07:10:22.293Z] Just dont piss of venom players if they r in there
+[2025-03-18T07:10:28.292Z] U dont want 19 inches of venom
+[2025-03-18T07:10:31.404Z] retard deshou ka 😔
+[2025-03-18T07:10:54.873Z] sui!play My Abyss Towa Ch,
+[2025-03-18T07:11:04.401Z] I main venom for tank
+[2025-03-18T07:11:13.574Z] I cant help but read it in an anime girl voice
+[2025-03-18T07:11:20.370Z] I am the 19 Inches in that scenario
+[2025-03-18T07:11:21.948Z] <:MavuiKek:1315613423798583296>
+[2025-03-18T07:11:27.840Z] 
+[2025-03-18T07:11:38.339Z] lol magneto  killed  himself
+[2025-03-18T07:11:52.516Z] "are you retarded?" but it's a rebellious anime girl with a lower voice register
+[2025-03-18T07:12:10.846Z] <:MavuiKek:1315613423798583296>
+[2025-03-18T07:12:26.836Z] I had a Enemy magneto  killer himself rather than give me the kill
+[2025-03-18T07:12:32.801Z] Actually good Spiderman players are just painful
+[2025-03-18T07:12:45.537Z] They go past you at 300 mph
+[2025-03-18T07:12:50.606Z] Lmao
+[2025-03-18T07:12:52.619Z] Combo your ass into another dimension
+[2025-03-18T07:12:54.885Z] Run away
+[2025-03-18T07:12:57.040Z] Repeat
+[2025-03-18T07:13:03.767Z] Like bro jumped straight off
+[2025-03-18T07:13:06.474Z] should I add a marvel rivals channel
+[2025-03-18T07:13:08.812Z] for yall
+[2025-03-18T07:13:09.210Z] and didn’t look back
+[2025-03-18T07:13:14.377Z] Sure !
+[2025-03-18T07:13:19.547Z] Lmao
+[2025-03-18T07:13:24.605Z] yeah games category gotta be expanded
+[2025-03-18T07:13:24.654Z] 
+[2025-03-18T07:13:32.366Z] <@727946854305628290>
+[2025-03-18T07:13:40.131Z] GLADLY
+[2025-03-18T07:13:52.833Z] oh rui
+try listening to tv off by kendrick next fr
+[2025-03-18T07:13:59.808Z] I seem so many stupid shit happen in competitive
+[2025-03-18T07:14:07.072Z] later on YT
+[2025-03-18T07:14:15.352Z] Like my doctor strange portals the enemy team to  the capture point._..
+[2025-03-18T07:14:16.279Z] Plus a Battlefield channel since i do that alot
+[2025-03-18T07:14:22.524Z] yay
+[2025-03-18T07:14:26.898Z] this isn't the most convenient way to listen to music LOL
+[2025-03-18T07:14:39.179Z] <#1351453617177231370>
+[2025-03-18T07:14:44.014Z] 
+[2025-03-18T07:14:46.737Z] Aww I can’t send  clips  in here lol
+[2025-03-18T07:14:52.585Z] wha
+[2025-03-18T07:14:54.545Z] hol up
+[2025-03-18T07:14:55.360Z] What
+[2025-03-18T07:15:15.749Z] Which I why I'm a professional hater and I chase them with venom
+[2025-03-18T07:15:18.954Z] you prob forgot about that lmao
+[2025-03-18T07:15:35.650Z] sui!play CHRONIC Anya Melfissa
+[2025-03-18T07:15:42.836Z] try now
+[2025-03-18T07:15:51.669Z] 
+[2025-03-18T07:16:27.394Z] ._….average clone rumble
+[2025-03-18T07:16:37.691Z] done
+[2025-03-18T07:16:39.363Z] It was a 1 vs alot
+[2025-03-18T07:16:49.023Z] jofriend role can do all gif and shi now
+[2025-03-18T07:16:55.900Z] DAVAI PIDARAZ
+[2025-03-18T07:17:00.458Z] Good idea to kill himself to not feed ult to your team
+[2025-03-18T07:17:12.055Z] sui!play CHRONIC Anya Melfissa Ch.
+[2025-03-18T07:17:12.591Z] And respawn faster
+[2025-03-18T07:17:20.298Z] lol
+[2025-03-18T07:17:24.954Z] Still it was funny as hell
+[2025-03-18T07:17:26.719Z] <:MoriDamn:850405882759610408>
+[2025-03-18T07:17:31.034Z] <@727946854305628290> <#1351453883158757428>
+[2025-03-18T07:17:36.372Z] THANK YOU FOR READING THE RULES!
+HAVE FUN! 
+
+I THROW THIS UPON YOU!
+[2025-03-18T07:17:48.838Z] I also kill vemons
+[2025-03-18T07:17:56.903Z] YATTA!
+[2025-03-18T07:18:20.521Z] True
+[2025-03-18T07:18:34.330Z] I did it a few times when playing jeff
+[2025-03-18T07:18:35.398Z] 
+[2025-03-18T07:18:51.175Z] sui!play Monitoring DECO*27
+[2025-03-18T07:18:57.729Z] bruh
+[2025-03-18T07:19:09.491Z] I uh had  a clone  rumble match
+[2025-03-18T07:19:22.718Z] Against 6 iron fists
+[2025-03-18T07:19:24.249Z] I don't play alot to comp
+[2025-03-18T07:19:31.766Z] But if I play venom and I see a spiderman
+[2025-03-18T07:19:43.396Z] Yeah I do quick play
+[2025-03-18T07:19:43.620Z] <a:pepecry:716797503378554971>
+[2025-03-18T07:19:45.230Z] I turn lore accurate and become a professional hater
+[2025-03-18T07:20:10.759Z] 
+[2025-03-18T07:20:12.291Z] sui!play モニタリング DECO*27
+[2025-03-18T07:20:27.807Z] that's the wrong song <:anguish:759475847823360021>
+[2025-03-18T07:20:35.045Z] That sounds like hell
+[2025-03-18T07:20:42.766Z] I still got PTSD from ironfist
+[2025-03-18T07:21:04.466Z] I main Jeff as healer
+[2025-03-18T07:21:17.709Z] And god ironfists just absolutely hate me
+[2025-03-18T07:22:01.980Z] sui!play Monitoring feat. Hatsune Miku DECO*27
+[2025-03-18T07:22:09.944Z] <a:YA_Rage:775464908631441418>
+[2025-03-18T07:22:14.128Z] sui!stop
+[2025-03-18T07:22:53.256Z] ._.
+[2025-03-18T07:22:54.542Z] Iron man orgy
+[2025-03-18T07:23:21.473Z] 
+[2025-03-18T07:23:24.385Z] I should really reinstall marvel rivals
+[2025-03-18T07:23:33.464Z] god okay try again
+[2025-03-18T07:23:38.479Z] sui!play Monitoring feat. Hatsune Miku DECO*27
+[2025-03-18T07:23:46.657Z] blyat
+[2025-03-18T07:24:09.545Z] 
+[2025-03-18T07:24:29.150Z] <@783979727462596619>
+[2025-03-18T07:24:36.861Z] yah
+[2025-03-18T07:24:38.759Z] Had to get this one in.
+[2025-03-18T07:24:39.214Z] sui!play Monitoring feat. Hatsune Miku DECO*27
+[2025-03-18T07:24:44.080Z] sure np
+[2025-03-18T07:24:45.838Z] 
+[2025-03-18T07:24:50.909Z] get in as many as u like
+[2025-03-18T07:24:57.678Z] still the wrong song but
+[2025-03-18T07:25:06.100Z] 
+[2025-03-18T07:25:09.556Z] sui!play Monitoring English Cover
+[2025-03-18T07:25:21.387Z] <:bruh:1127951523486384189>
+[2025-03-18T07:25:26.023Z] sui!stop
+[2025-03-18T07:25:39.072Z] yeah sure
+[2025-03-18T07:25:46.477Z] I'm in class rn I'll listen after
+[2025-03-18T07:26:08.733Z] He says he will gladly have you with us.-.
+[2025-03-18T07:26:31.703Z] just be prepare some dumb ass teammates tend to piss me off
+[2025-03-18T07:26:45.884Z] Like this rocket who flys off the map every 5 minutes
+[2025-03-18T07:28:24.186Z] Oh
+[2025-03-18T07:28:32.456Z] And yes I missed  some ults  all the time
+[2025-03-18T07:28:39.467Z] sui!play Carbonated Love by IRyS
+[2025-03-18T07:28:45.274Z] I would've listened to voice message
+[2025-03-18T07:28:51.252Z] But there's 3 teachers here lmao
+[2025-03-18T07:29:05.922Z] ah
+[2025-03-18T07:30:00.405Z] It's marvel rivals
+[2025-03-18T07:30:07.076Z] It happens all the time
+[2025-03-18T07:30:30.989Z] I'll prob reinstall when I get home
+[2025-03-18T07:30:53.225Z] Happens in Battlefield as well..
+[2025-03-18T07:31:01.420Z] Oh god does it happen alot.
+[2025-03-18T07:31:23.162Z] sui!play HELP! - Kobo Kanaeru
+[2025-03-18T07:32:07.242Z] I may have fixed it by just firm-talking Gemini Flash 2.0 <:SkullOG:1076797419469160458>
+[2025-03-18T07:32:54.928Z] Happens in every game
+[2025-03-18T07:33:17.798Z] I only played one battlefield game
+[2025-03-18T07:33:25.468Z] I think its a tradition between any game that requires teamwork. Having teammates that don't know how to even shoot a gun <:416_mug:1108138083842543778>
+[2025-03-18T07:33:44.061Z] I kept suicide bombing with a car
+[2025-03-18T07:34:01.972Z] Oof
+[2025-03-18T07:34:10.904Z] It was intentional
+[2025-03-18T07:34:20.032Z] I know
+[2025-03-18T07:34:35.523Z] God it was funny speeding towards a tank
+[2025-03-18T07:34:41.911Z] Jumping out and kaboom
+[2025-03-18T07:35:02.879Z] You wouldn't have lived driving near me. Lol
+[2025-03-18T07:35:47.079Z] The 8 c4s in on top of the car:
+[2025-03-18T07:36:05.175Z] real
+[2025-03-18T07:37:03.600Z] mori screams in lowercase
+[2025-03-18T07:37:12.483Z] <@727946854305628290>  reaction roles done
+[2025-03-18T07:37:19.857Z] 
+[2025-03-18T07:37:43.008Z] 
+[2025-03-18T07:38:20.709Z] Where's Antarctica?
+[2025-03-18T07:38:42.448Z] it melted
+[2025-03-18T07:39:09.736Z] And Africa?
+[2025-03-18T07:39:18.165Z] I colonized it
+[2025-03-18T07:39:22.894Z] Fair enough
+[2025-03-18T07:39:26.583Z] Wait
+[2025-03-18T07:39:46.681Z] Imma steal it
+[2025-03-18T07:39:50.942Z] bet
+[2025-03-18T07:39:54.091Z] ill just give it to you
+[2025-03-18T07:40:20.588Z] You ain't ever getting it back fr
+[2025-03-18T07:40:36.551Z] Oh yeah, some channels don't have the locks.
+[2025-03-18T07:40:37.457Z] Lived in the UK enough to learn to never give stuff back
+[2025-03-18T07:41:22.352Z] nah
+[2025-03-18T07:41:25.055Z] i will
+[2025-03-18T07:41:30.454Z] oh
+[2025-03-18T07:41:34.205Z] should i config that
+[2025-03-18T07:41:38.104Z] Nuh uh
+[2025-03-18T07:41:40.935Z] or u on it
+[2025-03-18T07:41:43.125Z] ferrer
+[2025-03-18T07:41:45.748Z] I got the Romanian + British combo
+[2025-03-18T07:41:49.140Z] <#1317916570667716731>
+[2025-03-18T07:41:49.391Z] <@&1319492879688925276> 
+https://x.com/Dexerto/status/1901639092690997475
+[2025-03-18T07:41:53.331Z] I'm on it.
+[2025-03-18T07:41:54.588Z] LET'S FUCKING GO
+[2025-03-18T07:42:05.569Z] :O
+LEGEND
+[2025-03-18T07:42:11.553Z] AY LETS GOO
+[2025-03-18T07:42:12.845Z] But I'll let you handle the bot ones.
+[2025-03-18T07:42:15.020Z] ill do it on all channels
+[2025-03-18T07:42:24.592Z] Ah ok
+[2025-03-18T07:42:26.038Z] FINALLY SOMETHING PLAYABLE AGAIN <:SkullOG:1076797419469160458>
+[2025-03-18T07:43:21.870Z] Still safe to proceed and age restrict or do I wait till the locks on everything?
+[2025-03-18T07:43:24.094Z] Classmates still okay 1.6 on school computes in break sometimes lmao
+[2025-03-18T07:43:33.368Z] 
+[2025-03-18T07:43:38.213Z] *don't want to be rude but god this sucks*
+[2025-03-18T07:43:46.364Z] <@1068860427548770384>, look at this
+[2025-03-18T07:43:55.648Z] hmmmm proceed
+[2025-03-18T07:44:13.186Z] Horrible aim + horrible gamesense
+[2025-03-18T07:44:17.318Z] korra got dis owned
+[2025-03-18T07:44:21.535Z] ay back in the day
+[2025-03-18T07:44:29.487Z] horrible aim and gamesense didn't matter
+[2025-03-18T07:44:42.140Z] it was the Loud Garbage Mic Russian trashtalks
+[2025-03-18T07:44:58.439Z] Yea
+[2025-03-18T07:46:30.618Z] 
+[2025-03-18T07:46:51.316Z] I got the garbage mic
+[2025-03-18T07:46:56.697Z] I can make it louder
+[2025-03-18T07:47:11.500Z] Only problem is I don't know enough russian to make good trashtalks
+[2025-03-18T07:47:11.865Z] got a garbage mic too lol
+[2025-03-18T07:47:21.810Z] urs sounds fine tho
+[2025-03-18T07:47:29.925Z] I use broken earphone as mic 💀
+[2025-03-18T07:47:42.498Z] "whos your president"
+"uhhh...michael jordan"
+[2025-03-18T07:47:59.149Z] <@783979727462596619> I'm sure you heard my mic
+[2025-03-18T07:48:09.478Z] yup
+[2025-03-18T07:48:13.492Z] i have'
+[2025-03-18T07:48:51.098Z] I really need to buy a proper mic lmao
+[2025-03-18T07:49:25.033Z] I think a karaoke mic should be cheap and useable
+[2025-03-18T07:49:31.736Z] I got one and thats how i talk in vc
+[2025-03-18T07:49:32.554Z] Done.
+[2025-03-18T07:49:35.783Z] holding it in my hand
+[2025-03-18T07:49:44.492Z] everything is private too now
+[2025-03-18T07:49:51.360Z] Yatta!
+[2025-03-18T07:50:02.498Z] I got some walkie talkies <:MavuiKek:1315613423798583296>
+[2025-03-18T07:50:11.797Z] Logitech Webcam
+[2025-03-18T07:50:13.953Z] As a mic
+[2025-03-18T07:50:37.498Z] One sec lemme find a clip on friend server where I talk
+[2025-03-18T07:50:40.872Z] Or you can hear my mic
+[2025-03-18T07:52:56.278Z] Nvm there's none
+[2025-03-18T07:53:02.763Z] I realized we had the old outdated descriptions. Lol
+[2025-03-18T07:53:12.746Z] There's only one clip but it's quite litteraly earrape
+[2025-03-18T07:53:19.538Z] yea let them stay
+[2025-03-18T07:53:23.535Z] unless we get new ideas
+[2025-03-18T07:53:31.566Z] best desc is general's
+[2025-03-18T07:53:40.825Z] 
+[2025-03-18T07:53:45.164Z] <@758049435447197788>
+[2025-03-18T07:53:53.326Z] You should follow the 2nd advice
+[2025-03-18T07:54:08.771Z] which one
+[2025-03-18T07:54:09.753Z] Whoever wrote that must be pretty chill
+[2025-03-18T07:54:15.701Z] oh yea fr
+[2025-03-18T07:54:21.677Z] can confirm
+[2025-03-18T07:54:29.808Z] Tweaked media's description since all channels have nsfw enabled. Lol
+[2025-03-18T07:54:40.573Z] but we dont want explosions like Pakistan happening
+[2025-03-18T07:56:20.370Z] Our servers looking better by the min.
+[2025-03-18T07:58:35.963Z] And looks even better with wifey here. <:AA_Ei_Heart:1109868178588315708>
+[2025-03-18T07:59:17.158Z] <@&1319492879688925276> Today's food for thought
+[2025-03-18T08:00:22.316Z] Role names changed
+[2025-03-18T08:00:24.626Z] 
+[2025-03-18T08:00:33.528Z] <@&1236723035344732242> <@&1236723035319308305> <@&1236723035319308304>
+[2025-03-18T08:00:45.190Z] Ooh
+[2025-03-18T08:01:26.770Z] No ferret role?
+[2025-03-18T08:01:35.829Z] <:Mavuika4K:1315617867135189083>
+[2025-03-18T08:01:44.803Z] ferret role is gay
+[2025-03-18T08:01:55.474Z] 
+[2025-03-18T08:01:58.038Z] (I will make it after lunch)
+[2025-03-18T08:02:43.681Z] Alrighty
+[2025-03-18T08:04:11.906Z] Pass one to Darky as well!
+[2025-03-18T08:04:51.386Z] <@1053780807380115456> so turns out Rezero manga Included alot of stuff from novel that anime cut out which makes sense
+[2025-03-18T08:05:22.624Z] There's some pretty funny scenes in there
+[2025-03-18T08:05:36.052Z] 
+[2025-03-18T08:06:14.935Z] I do wonder now tho
+[2025-03-18T08:06:23.635Z] I gotta check if they included the shadow garden
+[2025-03-18T08:06:27.305Z] # Thank you everyone for helping build up this server tonight! 
+
+# We should be close to fully launching it publicly to everyone!
+[2025-03-18T08:16:07.157Z] yay even though I just got here and didn’t help at all.-.
+[2025-03-18T08:18:07.963Z] Let's go
+[2025-03-18T08:20:06.760Z] bro folded so quickly
+[2025-03-18T08:21:11.974Z] <@569554121523462185>
+[2025-03-18T08:21:27.816Z] stfu this is my server
+[2025-03-18T08:21:41.284Z] 😭  jk
+[2025-03-18T08:21:51.200Z] 
+[2025-03-18T08:22:33.607Z] what role name and color <@727946854305628290>
+[2025-03-18T08:22:38.058Z] <@1244511773667627068>
+[2025-03-18T08:22:53.263Z] <@442857430305734657> <@758049435447197788> <@1053780807380115456> <@569554121523462185>  u want one too?
+[2025-03-18T08:22:58.487Z] Hmm
+[2025-03-18T08:23:04.050Z] I'll just make mine later
+[2025-03-18T08:23:08.603Z] <@877745441310130216>
+[2025-03-18T08:23:13.589Z] Still thinking what I wanna use
+[2025-03-18T08:23:26.067Z] Ain’t no way he’s in here
+[2025-03-18T08:23:31.239Z] anim girl
+[2025-03-18T08:23:40.437Z] You'll be able to fully help out soon wifey. 
+
+We really are just getting things started.
+[2025-03-18T08:23:45.900Z] he is under there
+[2025-03-18T08:23:47.590Z] 
+[2025-03-18T08:23:56.579Z] I got him in like
+[2025-03-18T08:23:57.212Z] Qué?
+[2025-03-18T08:24:02.690Z] He peeked in to say hi.
+[2025-03-18T08:24:10.480Z] need a custom role?
+[2025-03-18T08:24:13.805Z] In like 6 servers
+[2025-03-18T08:24:14.284Z] Mission failed
+[2025-03-18T08:24:28.465Z] Idk can't think of anything rn
+[2025-03-18T08:24:30.828Z] miserably
+aight time to kill my-
+[2025-03-18T08:24:41.847Z] Baeber maybe?
+[2025-03-18T08:24:48.263Z] Can't think of anything else for a custom role
+[2025-03-18T08:24:48.773Z] <:EucharistGa:1049303851599134750>
+[2025-03-18T08:24:53.238Z] <@727946854305628290> tell me or ur banned-
+[2025-03-18T08:25:03.731Z] take ur time and tell
+[2025-03-18T08:25:12.452Z] Hmmmm
+[2025-03-18T08:25:50.431Z] 
+[2025-03-18T08:25:53.971Z] It's prob gonna be baeber or salter idk
+[2025-03-18T08:25:58.510Z] Something like that prob
+[2025-03-18T08:26:10.782Z] only rueh can kill me fr
+[2025-03-18T08:26:48.152Z] yeah , just ask when you want it to be made
+[2025-03-18T08:27:05.275Z] Silly-Ferret squad. Or just Silly Ferrets
+
+It'll be orange or red
+[2025-03-18T08:27:27.948Z] ||It is 4am here||
+[2025-03-18T08:27:29.929Z] Lol
+[2025-03-18T08:27:48.050Z] 
+[2025-03-18T08:28:54.362Z] https://www.youtube.com/watch?v=DehK_Y0TUbE
+[2025-03-18T08:29:17.691Z] Siilly Ferrets it is
+and for darky too?
+[2025-03-18T08:29:50.893Z] Nah bro this is my jam
+[2025-03-18T08:30:32.518Z] Yes!
+[2025-03-18T08:30:42.797Z] 
+[2025-03-18T08:31:08.888Z] I'm her silly ferret
+[2025-03-18T08:32:18.714Z] Always will be her silly goofy ferret.
+[2025-03-18T08:32:44.992Z] <@783979727462596619> peak role name , "baeber burber" <:MavuiKek:1315613423798583296>
+[2025-03-18T08:32:51.668Z] Bet
+[2025-03-18T08:33:22.425Z] LMAO
+fr but that angry birds theme is for when you "act supa cute"
+[2025-03-18T08:33:40.244Z] What how
+[2025-03-18T08:33:52.490Z] It would match bg music so much
+[2025-03-18T08:35:15.367Z] 
+[2025-03-18T08:35:31.888Z] 
+[2025-03-18T08:35:37.096Z] Wat
+[2025-03-18T08:35:43.768Z] custom role
+[2025-03-18T08:36:01.429Z] https://tenor.com/view/hk416-girls-frontline-g11-goodnight-gn-gif-26298014
+[2025-03-18T08:36:14.992Z] I'll think Abt it for now
+[2025-03-18T08:36:20.595Z] Kinda busy
+[2025-03-18T08:36:32.990Z] take ur time
+[2025-03-18T08:37:06.135Z] 
+[2025-03-18T08:38:10.067Z] "Guten Schläfen 👍 "
+[2025-03-18T08:40:01.526Z] Or nah 
+Salter eats
+[2025-03-18T08:40:11.941Z] confirm?
+[2025-03-18T08:40:19.739Z] Yea
+#F6F0DA
+[2025-03-18T08:40:51.145Z] We don't have Uber eats, we got salter eats
+[2025-03-18T08:41:26.295Z] 
+[2025-03-18T08:42:03.189Z] <@&1351475525612474408>
+[2025-03-18T08:42:10.696Z] 
+[2025-03-18T08:42:42.726Z] 💀
+[2025-03-18T08:42:51.921Z] Oh good, the officer found it
+[2025-03-18T08:42:59.032Z] at least its just 29
+[2025-03-18T08:43:22.242Z] (if you caught the joke, good for you <:skull_sob:1159372531992645662> )
+[2025-03-18T08:43:25.357Z] 2.47 for him!
+[2025-03-18T08:43:29.212Z] That's a rip off
+[2025-03-18T08:43:36.353Z] OH GOD
+[2025-03-18T08:43:53.125Z] 0.10 max
+[2025-03-18T08:44:00.900Z] OH COME ON IT WAS AN INVESTMENT PAY
+[2025-03-18T08:44:07.412Z] 1 cent , lets go to the old days
+[2025-03-18T08:44:15.032Z] What does he have to offer
+[2025-03-18T08:44:21.664Z] I can probably dropkick him to the moon
+[2025-03-18T08:44:32.977Z] he can be a bait for drake
+[2025-03-18T08:44:44.945Z] That's the basements job
+[2025-03-18T08:44:52.307Z] lmao
+[2025-03-18T08:44:56.046Z] 
+[2025-03-18T08:45:19.580Z] He can fallguy for all my crimes
+[2025-03-18T08:45:29.638Z] *the government would believe it*
+[2025-03-18T08:45:36.583Z] Hmm
+[2025-03-18T08:45:41.936Z] 0.25
+[2025-03-18T08:45:58.712Z] He got a bit more valur
+[2025-03-18T08:46:03.838Z] Anything else he has to offer?
+[2025-03-18T08:47:00.144Z] Could have a good job depends
+[2025-03-18T08:47:01.261Z] 
+[2025-03-18T08:47:59.626Z] Caught lacking <@783979727462596619>
+[2025-03-18T08:48:09.387Z] Like?
+[2025-03-18T08:48:16.580Z] I gotta know what I'm buying over here
+[2025-03-18T08:48:26.600Z] ***drug-running***
+[2025-03-18T08:48:34.936Z] 1 dollar
+[2025-03-18T08:48:45.985Z] that gpu line had me 
+THAT 3.5 M JACK ONE WAS INSANE
+[2025-03-18T08:49:02.604Z] Tho it's 0.75 at the start
+[2025-03-18T08:49:04.847Z] Bro had to retract 💀
+[2025-03-18T08:49:21.826Z] And I'll give the 0.25 at the end after he starts doing his job for insurance
+[2025-03-18T08:49:29.698Z] Nah man, 1 dollar per 10,000 net income
+[2025-03-18T08:49:38.229Z] Drugs are lucrative
+[2025-03-18T08:50:07.078Z] how to reject bro : "Thank god they dont provide those jacks in phones nowadays cuz ur not getting my number"
+[2025-03-18T08:50:22.299Z] That's actually her comment 💀
+[2025-03-18T08:50:32.097Z] <:warfinLaugh:1239595464081276938>
+[2025-03-18T08:50:40.621Z] "My phone doesn't have a jack 😭 "
+[2025-03-18T08:50:41.167Z] I CAN UNDERSTAND THE HUZZ YO
+[2025-03-18T08:51:11.685Z] I should try Your Mother(Steam)
+[2025-03-18T08:51:25.489Z] 1 dollar for his purchase only
+0.75 in hand at purchase
+0.25 after he starts the business 
+0.8% from profit
+[2025-03-18T08:52:04.949Z] 200, one time payment, he gets 1% commission from every successful sell
+[2025-03-18T08:52:53.041Z] 200 is a scam
+[2025-03-18T08:53:14.978Z] Even with what he brings to the table
+[2025-03-18T08:53:18.116Z] Nah man you just lowballing
+[2025-03-18T08:53:37.443Z] no its not , rueh is just filipino
+[2025-03-18T08:53:48.961Z] 
+[2025-03-18T08:53:57.548Z] 200 what tho <@569554121523462185>
+[2025-03-18T08:54:38.790Z] 200 dinars
+[2025-03-18T08:54:49.374Z] the dude is abdul too
+[2025-03-18T08:54:50.185Z] https://cdn.discordapp.com/attachments/1236723037303214241/1326437205727772682/ssstwitter.com_1736276070466.mp4?ex=67da63e9&is=67d91269&hm=89935af48247e6955965e5319fe1a9d1de6a6d7f28a892afffe4658f47f317d9&
+[2025-03-18T08:54:55.919Z] 200 IDR
+[2025-03-18T08:55:17.142Z] Indonesian Rupiah is a steal deal
+[2025-03-18T08:55:23.764Z] Now we talking
+[2025-03-18T08:55:40.320Z] Deal
+[2025-03-18T08:55:50.291Z] Sold
+[2025-03-18T08:56:15.944Z] I want to give rueh speedwagon role but then I remember he died single 💀
+[2025-03-18T08:56:17.189Z] I'll put in one from my basement just cause that price is too nice
+[2025-03-18T08:56:22.421Z] (eliminate the past buyer that's on the way)
+[2025-03-18T08:56:35.396Z] <@569554121523462185>
+[2025-03-18T08:56:51.229Z] I'm already dead inside, AND I'm single
+[2025-03-18T08:56:54.257Z] Damn you bastard
+[2025-03-18T08:56:56.144Z] It makes sense
+[2025-03-18T08:57:07.238Z] speedwagon wasnt broke tho bro-
+[2025-03-18T08:57:18.811Z] https://tenor.com/view/romanian-anti-air-romania-anti-air-gif-25843679
+[2025-03-18T08:57:32.403Z] I could definitely buy a gun just to shoot you
+[2025-03-18T08:58:13.575Z] Romian Airborne forces be like "steal the enemy's wing mid-flight"
+[2025-03-18T08:58:23.740Z] https://www.youtube.com/watch?v=uS39ypOkasQ
+[2025-03-18T08:58:26.001Z] Only the wing?
+[2025-03-18T08:58:31.588Z] <:MavuiKek:1315613423798583296>
+[2025-03-18T08:58:37.103Z] You can steal the rest later
+[2025-03-18T08:58:40.267Z] You really underestimating
+[2025-03-18T08:58:51.241Z] <@783979727462596619>
+[2025-03-18T08:58:55.368Z] what song is in the bg tho <@758049435447197788>
+[2025-03-18T08:59:23.081Z] AAAAAYYYYYOOOOOOOOOOOOOOOOOOOOOOOO
+[2025-03-18T08:59:48.941Z] <:MavuikaWheeze:1317481609800319057>
+[2025-03-18T08:59:54.082Z] he saved that with that laugh <:SkullOG:1076797419469160458>
+[2025-03-18T09:00:32.129Z] Romanian march
+[2025-03-18T09:00:45.077Z] https://youtu.be/biME1GytzWU?si=402LhMucXLpo-u-c
+[2025-03-18T09:00:52.112Z] turning off <@857812394255187989> and <@1068860427548770384>, I wanna play Ready or Not <:SkullOG:1076797419469160458>
+[2025-03-18T09:01:05.714Z] maybe I really should not localhost
+[2025-03-18T09:01:10.400Z] it slaps

@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Import the Base64 encoded function from obfuscated.js
-const obf = require('./obfuscated.js'); 
+const obf = require('./encryptedfunc/obfuscated.js'); 
 
 // Ensure obf is a string before decoding
 if (typeof obf !== 'string') {
